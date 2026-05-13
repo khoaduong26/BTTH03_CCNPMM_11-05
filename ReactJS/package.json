@@ -1,0 +1,20 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "license": "ISC",
+  "author": "Dang Khoa",
+  "type": "commonjs",
+  "main": "eslint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^6.2.3",
+    "antd": "^6.3.7",
+    "axios": "^1.16.0",
+    "react-router-dom": "^7.15.0"
+  },
+  "devDependencies": {}
+}
